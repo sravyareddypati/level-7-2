@@ -242,4 +242,5 @@ describe("Todo test suite", () => {
     deletestatus
     ? expect(deletestatus).toBe(true)
     : expect(deletestatus).toBe(false);
-
+}); 
+});
