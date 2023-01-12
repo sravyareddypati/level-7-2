@@ -1,12 +1,7 @@
 body {
-  color: black;
   font-family: sans-serif;
 }
 
 .Todo-Item:hover .trash-icon {
   display: block;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 0533e31681f738a155b6f964be02928b406a1d46
