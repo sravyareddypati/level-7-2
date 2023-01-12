@@ -6,6 +6,4 @@ body {
 .Todo-Item:hover .trash-icon {
   display: block;
 }
-h5 {
-  display: inline;
-}
+
